@@ -1,0 +1,8 @@
+pandas
+mysql-connector-python
+scikit-learn
+matplotlib
+sqlalchemy
+schedule
+python-dotenv
+requests
